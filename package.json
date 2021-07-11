@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "webpack serve --mode=development --watch-content-base --open",
-    "build": "webpack --mode=production --output ./main.js",
+    "build": "webpack serve --mode=production --output ./main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
