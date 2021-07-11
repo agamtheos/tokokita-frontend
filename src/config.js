@@ -1,3 +1,3 @@
-export const apiUrl = 'ttps://tokokita-ecommerce.herokuapp.com'
+export const apiUrl = 'https://tokokita-ecommerce.herokuapp.com'
   ? 'http://localhost:5000'
   : '';
