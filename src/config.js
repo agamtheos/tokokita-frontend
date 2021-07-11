@@ -1,3 +1,3 @@
-export const apiUrl = document.location.href.startsWith('http://localhost')
+export const apiUrl = 'ttps://tokokita-ecommerce.herokuapp.com'
   ? 'http://localhost:5000'
   : '';
